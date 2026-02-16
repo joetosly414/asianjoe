@@ -225,7 +225,7 @@ construct==2.10.70 \
 construct-classes==0.1.2 \
     --hash=sha256:72ac1abbae5bddb4918688713f991f5a7fb6c9b593646a82f4bf3ac53de7eeb5 \
     --hash=sha256:e82437261790758bda41e45fb3d5622b54cfbf044ceb14774af68346faf5e08e
-cryptography==45.0.3 \
+cryptography==46.0.5 \
     --hash=sha256:00094838ecc7c6594171e8c8a9166124c1197b074cfca23645cee573910d76bc \
     --hash=sha256:050ce5209d5072472971e6efbfc8ec5a8f9a841de5a4db0ebd9c2e392cb81972 \
     --hash=sha256:232954730c362638544758a8160c4ee1b832dc011d2c41a306ad8f7cccc5bb0b \
